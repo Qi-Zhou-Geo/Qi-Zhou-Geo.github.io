@@ -113,8 +113,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Qi Zhou
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "Qi Zhou"
+  avatar           : "/assets/images/svstsr.png"
   bio              : "111"
   location         : "Potsdam"
   email            : "qi.zhou@gfz.de"
