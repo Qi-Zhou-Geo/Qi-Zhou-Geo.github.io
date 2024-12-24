@@ -115,8 +115,8 @@ analytics:
 author:
   name             : "Qi Zhou"
   avatar           : "/assets/images/avatar.png"
-  bio              : "111"
-  location         : "Potsdam"
+  bio              : "PhD candidate"
+  #location         : "Potsdam"
   email            : "qi.zhou@gfz.de"
   links:
     - label: "Email: qi.zhou@gfz.de"
