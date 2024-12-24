@@ -132,11 +132,9 @@ author:
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://github.com/Qi-Zhou-Geo"
+    - label: "Google Scholar"
+      url: "https://scholar.google.com/citations?user=4_SsGCkAAAAJ&hl=en&authuser=1"
 
 # Site Footer
 footer:
