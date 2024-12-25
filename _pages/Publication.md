@@ -1,5 +1,9 @@
 ---
-layout: posts
+layout: articles
+articles:
+  data_source: site.sample_page
+  type: brief
+
 title: "Publication"
 permalink: /Publication/
 ---
