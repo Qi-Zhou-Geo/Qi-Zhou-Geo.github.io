@@ -6,6 +6,8 @@ main:
     url: /CV/
   - title: "Publication"
     url: /Publication/
+  - title: "Project"
+    url: /Project/
   # - title: "Example"
   #   url: /year-archive/
   # - title: "Sample Collections"
