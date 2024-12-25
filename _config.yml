@@ -19,15 +19,15 @@ locale                   : "en-US"
 rtl                      : false # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Main title"
 title_separator          : "-"
-subtitle                 : "This is the subtitle."# site tagline that appears below site title in masthead
+subtitle                 : "This is my personal web."# site tagline that appears below site title in masthead
 name                     : "Qi Zhou"
 description              : "update at"
 url                      : "https://qi-zhou-geo.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #"/blog" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/example.jp2" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/avatar.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "Welcome" # overrides the website title displayed in the masthead, use " " for no title
+logo                     : "/assets/images/logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+masthead_title           : "Welcome!" # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 enable_copy_code_button  : true # true, false (default)
@@ -114,16 +114,16 @@ analytics:
 # Site Author
 author:
   name             : "Qi Zhou"
-  avatar           : "/assets/images/avatar.png"
+  avatar           : "/assets/images/me.png"
   bio              : "PhD candidate at GFZ"
   txt              : "this is an example qi.zhou@gfz.de"
   #location         : "Potsdam"
   #email            : "qi.zhou@gfz.de"
   links:
-    - label: "Email: qi.zhou@gfz.de"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-
+    - label: "GFZ mail"
+      url: "qi.zhou@gfz.de"
+    - label: "Gmail"
+      url: "qi.zhou.geo@gmail.com"
     - label: "GitHub"
       url: "https://github.com/Qi-Zhou-Geo"
     - label: "Google Scholar"
