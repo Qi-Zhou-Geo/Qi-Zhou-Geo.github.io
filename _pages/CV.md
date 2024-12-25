@@ -1,2 +1,8 @@
-** CV ** <br>
-This is my cv
+---
+layout: page
+title: "CV"
+permalink: /cv/
+---
+
+**CV**  
+This is my CV.
