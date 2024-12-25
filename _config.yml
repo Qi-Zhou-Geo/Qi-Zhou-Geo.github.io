@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
+rtl                      : false # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Main title"
 title_separator          : "-"
 subtitle                 : "This is the subtitle."# site tagline that appears below site title in masthead
@@ -25,9 +25,9 @@ description              : "update at"
 url                      : "https://qi-zhou-geo.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #"/blog" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/example.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "Good" # overrides the website title displayed in the masthead, use " " for no title
+teaser                   : "/assets/images/example.jp2" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : "/assets/images/avatar.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+masthead_title           : "Welcome" # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 enable_copy_code_button  : true # true, false (default)
