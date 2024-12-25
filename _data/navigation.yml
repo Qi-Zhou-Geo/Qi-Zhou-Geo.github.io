@@ -4,6 +4,8 @@ main:
     url: https://www.gfz-potsdam.de/en/staff/qi.zhou/sec47
   - title: "CV"
     url: /CV/
+  - title: "Publication"
+    url: /Publication/
   # - title: "Example"
   #   url: /year-archive/
   # - title: "Sample Collections"
