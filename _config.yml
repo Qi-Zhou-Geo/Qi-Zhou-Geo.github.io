@@ -116,8 +116,9 @@ author:
   name             : "Qi Zhou"
   avatar           : "/assets/images/avatar.png"
   bio              : "PhD candidate"
+  txt              : "this is an example qi.zhou@gfz.de"
   #location         : "Potsdam"
-  email            : "qi.zhou@gfz.de"
+  #email            : "qi.zhou@gfz.de"
   links:
     - label: "Email: qi.zhou@gfz.de"
       icon: "fas fa-fw fa-envelope-square"
@@ -318,8 +319,8 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
-      share: true
+      comments: true
+      share: false
       related: true
 
       # show the web update date
