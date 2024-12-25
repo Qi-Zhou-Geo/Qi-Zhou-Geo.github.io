@@ -1,5 +1,5 @@
 ---
-layout: tag
+layout: page
 title: "Publication"
 permalink: /Publication/
 ---
@@ -36,13 +36,13 @@ submitted to **_Journal of Geophysical Research: Earth Surface_** at 2024-11-21)
 
 ## **Co-Author Paper** 
 #### Measuring bedload motion time at second resolution using Benford's law on acoustic data 
-Yang, Ci‐Jian, Jens M. Turowski, **Qi Zhou**, Ron Nativ, Hui Tang, Jui‐Ming Chang, and Wen‐Sheng Chen.
+Ci‐Jian Yang, Jens M. Turowski, **Qi Zhou**, Ron Nativ, Hui Tang, Jui‐Ming Chang, and Wen‐Sheng Chen.
 "Measuring bedload motion time at second resolution using Benford's law on acoustic data." 
 **_Earth and Space Science_**, no. 7 (2024): e2023EA003416. <br>
-[Click here](https://doi.org/10.1029/2023EA003416) <br>
+[Click here for the manuscript](https://doi.org/10.1029/2023EA003416) <br>
 
 #### Dynamic analyses of soil erosion and improved potential combining topography and socio-economic factors on the Loess Plateau
-Yuan, Shuang, Qiang Xu, Kuanyao Zhao, **Qi Zhou**, Xuan Wang, Xiaochao Zhang, Wanlin Chen, and Xu Ji. 
+Yuan Shuang, Qiang Xu, Kuanyao Zhao, **Qi Zhou**, Xuan Wang, Xiaochao Zhang, Wanlin Chen, and Xu Ji. 
 "Dynamic analyses of soil erosion and improved potential combining topography and socio-economic factors on the Loess Plateau." 
 **_Ecological Indicators_** 160 (2024): 111814.
-[Click here](https://doi.org/10.1016/j.ecolind.2024.111814) <br>
+[Click here for the manuscript](https://doi.org/10.1016/j.ecolind.2024.111814) <br>
