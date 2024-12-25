@@ -1,8 +1,11 @@
 ---
-layout: page
+layout: default
 title: "Publication"
 permalink: /Publication/
 ---
+
+Conference papers are not included here. <br>
+An up-to-date list can be found on my [Google Scholar](https://scholar.google.com/citations?user=4_SsGCkAAAAJ&hl=en&authuser=1) profile.
 
 ## **First-Author Paper** <br>
 
