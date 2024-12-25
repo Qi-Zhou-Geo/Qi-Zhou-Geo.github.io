@@ -1,9 +1,5 @@
 ---
-layout: articles
-articles:
-  data_source: site.sample_page
-  type: brief
-
+layout: splash
 title: "Publication"
 permalink: /Publication/
 ---
