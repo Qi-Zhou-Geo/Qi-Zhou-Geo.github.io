@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Qi Zhou"
   avatar           : "/assets/images/avatar.png"
-  bio              : "PhD candidate"
+  bio              : "PhD candidate at GFZ"
   txt              : "this is an example qi.zhou@gfz.de"
   #location         : "Potsdam"
   #email            : "qi.zhou@gfz.de"
@@ -123,15 +123,7 @@ author:
     - label: "Email: qi.zhou@gfz.de"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+
     - label: "GitHub"
       url: "https://github.com/Qi-Zhou-Geo"
     - label: "Google Scholar"
@@ -316,7 +308,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
+      layout: splash
       author_profile: true
       read_time: true
       comments: true
