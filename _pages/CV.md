@@ -1,8 +1,8 @@
 ---
-layout: single
+layout: splash
 title: "CV"
 permalink: /CV/
 ---
 
-**CV**  
-This is my CV.
+## Education Background 
+
