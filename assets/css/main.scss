@@ -11,10 +11,10 @@ search: false
 
 // Custom font styles
 body {
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: 'Segoe UI', Arial, sans-serif; // Set the default font
 }
 
-// Optional: Customize headers
-h1, h2, h3, h4, h5, h6 {
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+// Optional: Customize specific elements (optional, but ensures all fonts match)
+h1, h2, h3, h4, h5, h6, p, span, div, a {
+  font-family: 'Segoe UI', Arial, sans-serif;
 }
