@@ -19,7 +19,7 @@ Thesis: _Seismic signal and machine learning driven debris flow early warning sy
 ## Invited Public Talks
 **2024-01**, _Benford's law as mass movements detector in seismic signals_, invited by [Prof. Dr. Xuanmei Fan](https://scholar.google.nl/citations?user=-GxqPOEAAAAJ&hl=en), SKLGP, China.
 <br>
-**2024-04**, _Environmental Seismology and Benford's law as mass movements detector in seismic signals_, invited by [Prof. Dr. Ming Peng](https://faculty-civileng.tongji.edu.cn/pengming/en/index.html), Tongji University, China.
+**2024-04**, _Environmental Seismology and Benford's law as mass movements detector in seismic signals_, invited by [Prof. Dr. Ming Peng](https://faculty-civileng.tongji.edu.cn/pengming/en/index.htm), Tongji University, China.
 <br>
 **2024-12**, _Enhancing debris flow warning via machine learning: from seismic feature reduction to model transferability_, invited by [Dr. Rene Steinmann](https://scholar.google.nl/citations?user=x8-5l6MAAAAJ&hl=en&oi=ao), ISterre-GFZ-University of Potsdam Workshop, Germany.
 <br>
@@ -28,4 +28,8 @@ Thesis: _Seismic signal and machine learning driven debris flow early warning sy
 **2023-02**, Served as a teaching assistant, preparing and teaching portions of the _"Digital Seismology"_ course with [Prof. Eva Eibl](https://www.uni-potsdam.de/de/geo/institut/mitarbeiter/eibl-eva) at University of Potsdam.
 <br>
 **2022-10 to 2024-05**,	Assisted Dr. Hui Tang in supervising [Quratulain Jaffar](https://www.researchgate.net/profile/Quratulain-Jaffar-2) from the University of Münster on her MSc thesis _"Detecting Mass Movements using Fractal-based algorithm"_.
+<br>
+
+## Publication
+
 
