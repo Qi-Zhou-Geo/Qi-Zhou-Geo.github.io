@@ -7,7 +7,7 @@ permalink: /Publication/
 Conference papers are not included here. <br>
 An up-to-date list can be found on my [Google Scholar](https://scholar.google.com/citations?user=4_SsGCkAAAAJ&hl=en&authuser=1) profile.
 
-## **First-Author Paper** <br>
+### **First-Author Paper** <br>
 1. **Qi Zhou**, Qiang Xu, Dalei Peng, Xuanmei Fan, Chaojun Ouyang, Kuanyao Zhao, Huajin Li, and Xing Zhu. 
 "_Quantitative spatial distribution model of site-specific loess landslides on the Heifangtai terrace, China_." 
 **_Landslides_** 18 (2021): 1163-1176. <br>
@@ -30,7 +30,7 @@ submitted to **_Journal of Geophysical Research: Earth Surface_** at 2024-11-21)
 [Click here for the preprint](https://doi.org/10.22541/essoar.172183990.09256095/v1) <br>
 
 
-## **Co-Author Paper** 
+### **Co-Author Paper** 
 1. Ci‐Jian Yang, Jens M. Turowski, **Qi Zhou**, Ron Nativ, Hui Tang, Jui‐Ming Chang, and Wen‐Sheng Chen.
 "_Measuring bedload motion time at second resolution using Benford's law on acoustic data_." 
 **_Earth and Space Science_**, no. 7 (2024): e2023EA003416. <br>
