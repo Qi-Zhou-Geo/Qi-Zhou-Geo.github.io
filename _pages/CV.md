@@ -25,7 +25,7 @@ Thesis: _Seismic signal and machine learning driven debris flow early warning sy
 <br>
 
 ## Teaching & Mentoring
-**2023-02**, Served as a teaching assistant, preparing and teaching portions of the _"Digital Seismology"_ course with [Prof. Eva Eibl](https://www.uni-potsdam.de/de/geo/institut/mitarbeiter/eibl-eva) at University of Potsdam.
+**2023-02**, Served as a teaching assistant, preparing and teaching portions of the _"Digital Seismology"_ course with [Prof. Dr. Eva Eibl](https://www.uni-potsdam.de/de/geo/institut/mitarbeiter/eibl-eva) at University of Potsdam.
 <br>
 **2022-10 to 2024-05**,	Assisted Dr. Hui Tang in supervising [Quratulain Jaffar](https://www.researchgate.net/profile/Quratulain-Jaffar-2) from the University of Münster on her MSc thesis _"Detecting Mass Movements using Fractal-based algorithm"_.
 <br>
